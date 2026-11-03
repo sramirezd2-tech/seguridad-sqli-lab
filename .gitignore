@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+usuarios.db
+usuarios_hardened.db
+respaldo_*.db
+venv/
+.venv/
+.vscode/
+escaneo.json
